@@ -10,3 +10,4 @@ Bu paket, mevcut SPK uygulamasındaki 635 soruyu Meslek Hukuku, Vergi Hukuku ve 
 4. Vercel'de Build and Deployment için statik HTML proje kökünü kullanın; build command gerekmez. `index.html` kök dizinde olmalıdır.
 
 Supabase bilgileri boş bırakılırsa soru çözme arayüzü çalışır, ancak ilerleme yalnızca o tarayıcıda saklanır.
+önizleme dalı
